@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'This is  https://github.com/mdecourse/cmstemplate \n \n \n', 'tags': '', 'url': 'About.html'}, {'title': '討論', 'text': '小組分工 \n 繪圖: 林厚宇 王鼎鈞 \n 程式模擬: \n 機構設計:葉子嘉 \n \n 我們的主題是甚麼?', 'tags': '', 'url': '討論.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'This is  https://github.com/mdecourse/cmstemplate \n \n \n', 'tags': '', 'url': 'About.html'}, {'title': '小組分工', 'text': '繪圖: 林厚宇 王鼎鈞 \n 程式模擬:陳昱愷 \n 機構設計:葉子嘉 黃仲甫 \n \n 我們的主題是甚麼?', 'tags': '', 'url': '小組分工.html'}]};
